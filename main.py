@@ -1,3 +1,4 @@
+# Dependencies
 import numpy as np
 import keras
 from keras.preprocessing.image import load_img
